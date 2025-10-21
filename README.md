@@ -6,3 +6,4 @@ for i in {1..10}; do
 #no for somwthing
 #if 
 you dom
+tell
